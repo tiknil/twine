@@ -1,3 +1,7 @@
+# 1.1.4 (2026-09-28)
+
+- Improvement: Twine now requires rubyzip 3.4 or greater
+
 # 1.1.3 (2023-07-10)
 
 - Feature: Add support for nested JSON translations using the jQuery formatter (#296)
